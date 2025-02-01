@@ -1,3 +1,0 @@
-[submodule "mp1/gem5"]
-	path = mp1/gem5
-	url = https://github.com/lku-illinois/ECE511_Computer_Arch.git
